@@ -14,5 +14,5 @@ Gem::Specification.new do |gem|
   gem.name          = "aced_rails"
   gem.require_paths = ["lib"]
   gem.version       = AcedRails::VERSION
-  gem.add_dependency "rails", ">= 3.2", "< 5"
+  gem.add_dependency "rails", ">= 4.1"
 end
